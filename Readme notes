@@ -1,0 +1,20 @@
+Dears Tradinos Tech Team
+
+Here you find the tech test I've made due to the email sent to me lately from the HR department.
+
+I will mention some notes to be considered:
+
+- First: I used for authentication (login/register) the Laravel library "fortify" with login and register blades "laravel ui".
+
+- Second: I used the laravel blade technique.
+
+- Third: database tables are made as a migrations as mentioned in the project and made a seeder for categories (CategorySeeder).
+
+- Fourth: tasks datatable is ajax request with pagination, search and filters, 
+also I used laravel requests for validation in store and update methods (StoreTaskRequest, UpdateTaskRequest).
+
+- Fifth: a create, edit, delete for the tasks and a blade for the show task view.
+
+- Sixth: about the additional requirements I didn't do them because of the lack of time and I hadn't time to search for and apply them.
+
+- Seventh: You need to register users to use the application, make multiple users to create task with assignee user.
