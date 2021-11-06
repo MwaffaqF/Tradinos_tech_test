@@ -8,7 +8,7 @@ I will mention some notes to be considered:
 
 - Second: I used the laravel blade technique.
 
-- Third: database tables are made as a migrations as mentioned in the project and made a seeder for categories (CategorySeeder).
+- Third: database tables are made as a migrations as mentioned in the project and made a seeder for categories (CategorySeeder), database name "tradinos_tech_test".
 
 - Fourth: tasks datatable is ajax request with pagination, search and filters, 
 also I used laravel requests for validation in store and update methods (StoreTaskRequest, UpdateTaskRequest).
